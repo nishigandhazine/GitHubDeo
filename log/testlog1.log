@@ -1,0 +1,15 @@
+2023-01-15 19:42:19,052 [main] INFO My automation framework - Framework execution started
+2023-01-15 19:42:19,166 [main] INFO com.utility.Log - =======TestCase 1 start TEST START========
+2023-01-15 19:42:19,167 [main] INFO com.utility.Log - This is test case 1
+2023-01-15 19:42:19,168 [main] INFO com.utility.Log - ============Test case 1 ends TEST END==========
+2023-01-15 19:42:19,198 [main] INFO com.utility.Log - =======TestCase 2 start TEST START========
+2023-01-15 19:42:19,200 [main] INFO com.utility.Log - This is test case 2
+2023-01-15 19:42:19,202 [main] INFO com.utility.Log - ============Test case 2 ends TEST END==========
+2023-01-15 19:42:19,212 [main] INFO com.utility.Log - =======TestCase 3 start TEST START========
+2023-01-15 19:42:19,215 [main] INFO com.utility.Log - This is test case 3
+2023-01-15 19:42:19,217 [main] INFO com.utility.Log - ============Test case 3 ends TEST END==========
+2023-01-15 19:42:19,534 [main] INFO My automation framework - Framework execution stopped
+2023-01-16 06:45:04,696 [main] INFO My automation framework - Framework execution started
+2023-01-16 06:45:21,842 [main] INFO My automation framework - Browser launches, url hit, maximized....
+2023-01-16 06:45:32,281 [main] INFO My automation framework - Browser launches, url hit, maximized....
+2023-01-16 06:45:32,495 [main] INFO My automation framework - Framework execution stopped
